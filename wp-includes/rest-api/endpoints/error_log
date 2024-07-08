@@ -1,0 +1,12 @@
+[30-Nov-2022 21:07:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17
+[30-Nov-2022 21:10:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[30-Nov-2022 21:11:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17

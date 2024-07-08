@@ -1,0 +1,121 @@
+[30-Sep-2022 12:40:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[30-Sep-2022 12:40:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[30-Jul-2023 03:40:16 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/class-wp-query.php on line 4365
+[23-Oct-2023 13:00:36 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/class-wp-query.php on line 4365
+[03-Nov-2023 00:02:02 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/class-wp-query.php on line 4365
+[14-Dec-2023 08:19:29 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/class-wp-query.php on line 4365
+[27-Dec-2023 10:39:03 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/class-wp-query.php on line 4365
+[07-Jan-2024 04:26:27 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/class-wp-query.php on line 4365
+[08-Jan-2024 15:15:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[08-Jan-2024 15:22:36 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/class-wp-query.php on line 4365
+[08-Jan-2024 17:04:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[10-Jan-2024 19:17:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[12-Jan-2024 12:51:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[13-Jan-2024 22:37:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[16-Jan-2024 05:09:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[22-Jan-2024 09:59:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[23-Jan-2024 04:45:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[27-Jan-2024 05:32:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[27-Jan-2024 11:06:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[27-Jan-2024 17:56:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[30-Jan-2024 19:15:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[31-Jan-2024 01:32:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[31-Jan-2024 11:38:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[01-Feb-2024 23:08:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[05-Feb-2024 19:09:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[09-Feb-2024 21:30:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[10-Feb-2024 20:15:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[11-Feb-2024 04:03:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[15-Feb-2024 17:43:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[17-Feb-2024 22:51:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[22-Feb-2024 16:08:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[24-Feb-2024 13:21:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[27-Feb-2024 09:46:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-settings.php on line 33
+[29-Mar-2024 01:16:10 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/class-wp-query.php on line 4365
+[14-Apr-2024 00:33:35 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/class-wp-query.php on line 4365
+[01-May-2024 11:23:04 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/class-wp-query.php on line 4365
+[07-May-2024 10:42:24 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/class-wp-query.php on line 4365
+[20-May-2024 00:56:54 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/class-wp-query.php on line 4365
+[26-May-2024 14:11:47 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/class-wp-query.php on line 4365
+[30-May-2024 22:14:25 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/class-wp-query.php on line 4365
+[17-Jun-2024 10:28:23 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/class-wp-query.php on line 4365
+[21-Jun-2024 05:12:11 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/class-wp-query.php on line 4365
+[24-Jun-2024 19:50:54 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-includes/class-wp-query.php on line 4365

@@ -1,0 +1,16 @@
+[06-Nov-2022 12:29:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-content/themes/twentytwentyone/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-content/themes/twentytwentyone/404.php on line 12
+[22-Aug-2023 20:30:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-content/themes/twentytwentyone/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-content/themes/twentytwentyone/index.php on line 17
+[22-Aug-2023 20:30:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-content/themes/twentytwentyone/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-content/themes/twentytwentyone/index.php on line 17
+[24-Mar-2024 14:24:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-content/themes/twentytwentyone/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/l6pcx5ebxaun/public_html/contentrick.com/wp-content/themes/twentytwentyone/index.php on line 17
